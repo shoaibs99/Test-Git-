@@ -1,3 +1,4 @@
-# Test-Git-
-# I love to eat pizza and Tea
-# I like to read book 
+# Test Github
+# my first repository on git hub 
+i love :pizza and : tea
+
